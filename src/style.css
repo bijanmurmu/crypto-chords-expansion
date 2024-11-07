@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.keyboard, .audio-controls, .harmony-toggle, .tooltip {
+  margin: 20px;
+}
