@@ -1,17 +1,18 @@
 # Crypto Chords Expansion
 
-## Description
-An interactive, audio-visual blockchain experience.
-
-## Setup
-1. Clone the repository.
-2. Run `npm install`.
-3. Start the app with `npm start`.
+Crypto Chords Expansion is a visual and auditory representation of transactions across different blockchain networks.
 
 ## Features
-- Harmony modes
-- Audio controls
-- Real-time tooltips for transaction types
+- Real-time transaction visualization
+- Multiple chord modes (Sequential/Batch)
+- Audio controls (mute/unmute)
+- Interactive keyboard with color-coded transaction types
 
-## License
-Open-source under the MIT license.
+## Technologies Used
+- React
+- Tone.js (for audio synthesis)
+
+## Getting Started
+To run the app locally:
+1. Clone this repository
+2. Install dependencies:
